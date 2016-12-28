@@ -76,7 +76,7 @@ console.log('千亿数据耗时' + time3 + 'ms\n');
 
 ### Result:
 
-![图片](./bulb-switcher.png)
+![图片](img/bulb-switcher.png)
 
 ### Explain:
 
