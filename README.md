@@ -1,6 +1,6 @@
 # leetcode
 
-leetcode刷题记
+record some interesting questions from [leetcode](https://leetcode.com/)
 
 1. [two-sum](https://github.com/fengliner/leetcode/blob/master/mark/two-sum.md)
 2. [move-zeroes](https://github.com/fengliner/leetcode/blob/master/mark/move-zeroes.md)
